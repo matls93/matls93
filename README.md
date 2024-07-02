@@ -1,6 +1,6 @@
 ## About Me
 
-- 👋 Hi, I’m @matls93. Originally a history student, I am now retraining as a software developer in Python coding and web development in Javascript. This GitHub repository serves as a portfolio to showcase my work as I transition into this new field.
+- 👋 Hi, I’m @matls93. Originally a history student, I am now retraining as a software developer in Python and web development in Javascript. This GitHub repository serves as a portfolio to showcase my work as I transition into this new field.
 
 - 👀 I’m interested in Python, JavaScript, web development, AI
 
